@@ -33,7 +33,7 @@ python train_gesture_model.py
 
 - 韦晓蜃: algorithm design and code integration. Email 2162648164wxs@gmail.com
 - 杨永康: embedded software. Email coolcool1887@gmail.com
-- 张立坤: BLE. Email TODO
+- 张立坤: BLE. Email 3574715686@qq.com
 
 ## License
 

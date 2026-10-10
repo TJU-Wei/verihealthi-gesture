@@ -154,4 +154,4 @@ python train_gesture_model.py
 
 - 韦晓蜃：算法设计与代码整合。邮箱 2162648164wxs@gmail.com
 - 杨永康：嵌入式。邮箱 coolcool1887@gmail.com
-- 张立坤：BLE。邮箱 TODO
+- 张立坤：BLE。邮箱 3574715686@qq.com
